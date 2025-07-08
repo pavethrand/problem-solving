@@ -6,8 +6,8 @@ This repository contains my **daily solutions to LeetCode problems** and other c
 
 ## 🔍 What You'll Find Here
 
-- ✅ Daily LeetCode solutions (mostly in [your preferred language])
-- 🧩 Occasional challenges from other platforms (e.g., HackerRank, Codeforces, AtCoder)
+- ✅ Daily LeetCode solutions (mostly in java)
+- 🧩 Occasional challenges from other platforms (e.g., HackerRank, Codeforces, Codechef)
 - 📘 Well-commented code and readable solutions
 - 📅 Organized by date and/or problem category
 
